@@ -52,7 +52,7 @@ Se trabaja con ambos datasets (vino tinto y blanco). El pipeline incluye:
 
 ## ⚙️ Installation
 
-Crear un entorno de conda o un entorno virtual e instalar las dependencias:
+Crear un entorno de conda o un entorno virtual con Python==3.13.0 e instalar las dependencias:
 
 ```bash
 pip install -r requirements.txt
